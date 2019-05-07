@@ -15,8 +15,8 @@ sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/
 authors:
   David:
     name: David
-    display_name: David Clijsters
-    image: /assets/images/john.jpg
+    display_name: David
+    image: /assets/images/David.jpg
     email: david.clijsters@telenet.be
     web: clijda.github.io
     twitter: DavidClijsters
