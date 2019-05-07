@@ -1,26 +1,26 @@
 # Site
-name: John Doe
-description: Just another website
+name: David Clijsters
+description: Data Science and more
 meta_description: Just another website
 logo: /assets/images/logo.png
 favicon: /assets/images/favicon.ico
 paginate: 6
 baseurl:
-email: 'hello@john.doe'
+email: 'david.clijsters@telenet.be'
 google_analytics:
 disqus: xjekyll
 sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5a1a46b37b0f3600122c23bc&product=sticky-share-buttons"></script>'
 
 # Authors
 authors:
-  john:
-    name: john
-    display_name: John Doe
+  David:
+    name: David
+    display_name: David Clijsters
     image: /assets/images/john.jpg
-    email: hello@john.doe
-    web: example.com
-    twitter:
-    description: Hi, I am John Doe.
+    email: david.clijsters@telenet.be
+    web: clijda.github.io
+    twitter: davidclijsters
+    description: Hi, I am David Clijsters.
 
 # Plugins
 plugins:
