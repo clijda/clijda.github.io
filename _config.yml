@@ -5,7 +5,7 @@ meta_description: Data Science and more
 logo: /assets/images/logo.png
 favicon: /assets/images/favicon.ico
 paginate: 6
-baseurl:
+baseurl: /
 email: 'david.clijsters@telenet.be'
 google_analytics:
 disqus: xjekyll
