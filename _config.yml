@@ -1,7 +1,7 @@
 # Site
 name: David Clijsters
 description: Data Science and more
-meta_description: Just another website
+meta_description: Data Science and more
 logo: /assets/images/logo.png
 favicon: /assets/images/favicon.ico
 paginate: 6
@@ -19,7 +19,7 @@ authors:
     image: /assets/images/john.jpg
     email: david.clijsters@telenet.be
     web: clijda.github.io
-    twitter: davidclijsters
+    twitter: DavidClijsters
     description: Hi, I am David Clijsters.
 
 # Plugins
@@ -44,16 +44,16 @@ highlighter: rouge
 
 # SEO
 twitter:
-  username: john
+  username: DavidClijsters
   card: summary
 
 facebook:
   app_id:
-  publisher: john.com
+  publisher: 
   admins:
 
 social:
-name: John Doe
+name: David Clijsters
 links:
     - https://twitter.com/
     - https://www.facebook.com/
