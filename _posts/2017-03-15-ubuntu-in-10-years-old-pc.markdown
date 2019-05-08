@@ -1,17 +1,21 @@
 ---
 layout: post
 cover: assets/images/1.jpg
-title: Ubuntu in old PC
-date: 2017-03-15 12:00:00 +0545
+title: Which problems can data science solve
+date: 2019-05-08 12:00:00 +0545
 categories: blog
-author: john
+author: David
 featured: true
-summary: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+summary: machine learning techniques
 ---
 
- Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
- tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
- quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
- consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
- cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
- proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+You typically use data science or machine learning to answer five types of questions:
+
+How much or how many? (regression)
+Which category? (classification)
+Which group? (clustering)
+Is this weird? (anomaly detection)
+Which option should be taken? (recommendation)
+Determine which of these questions you're asking and how answering it achieves your business goals.
+
+If you want to automate data retrieval and/or store data in a structural way, then we talk about data engineering with its own set of solutions.
