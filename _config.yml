@@ -18,7 +18,7 @@ authors:
     display_name: David
     image: /assets/images/David.jpg
     email: david.clijsters@telenet.be
-    web: clijda.github.io
+    web: https://clijda.github.io/
     twitter: DavidClijsters
     description: Hi, I am David Clijsters.
 
@@ -44,7 +44,7 @@ highlighter: rouge
 
 # SEO
 twitter:
-  username: DavidClijsters
+  username: @DavidClijsters
   card: summary
 
 facebook:
