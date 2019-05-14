@@ -36,7 +36,7 @@ jekyll-archives:
     - categories
   layout: archive
   permalinks:
-    category: ':categories/:name/'
+    category: 'category/:name/'
 
 # Other
 markdown: kramdown
@@ -44,7 +44,7 @@ highlighter: rouge
 
 # SEO
 twitter:
-  username: @DavidClijsters
+  username: DavidClijsters
   card: summary
 
 facebook:
