@@ -1,6 +1,6 @@
 ---
 layout: post
-cover: assets/images/6.jpg
+cover: assets/images/6.png
 title: Which problems can data science solve
 date: 2019-05-08 12:00:00 +0545
 categories: blog
