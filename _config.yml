@@ -28,7 +28,7 @@ plugins:
   - jekyll-archives
   - jekyll-seo-tag
 
-permalink: pretty
+permalinks: pretty
 
 # Archives
 jekyll-archives:
