@@ -28,14 +28,14 @@ plugins:
   - jekyll-archives
   - jekyll-seo-tag
 
-permalinks: pretty
+permalink: pretty
 
 # Archives
 jekyll-archives:
   enabled:
     - categories
   layout: archive
-  permalinks:
+  permalink:
     category: '/category/:name/'
 
 # Other
