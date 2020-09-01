@@ -11,4 +11,4 @@ summary: data science in sports
 
 Analysing training data
 
-![image 2]({{ site.baseurl }}/assets/images/2.png)
+![image 2](https://github.com/clijda/clijda.github.io/tree/master/assets/images/2.png)
