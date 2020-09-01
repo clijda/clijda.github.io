@@ -35,8 +35,8 @@ jekyll-archives:
   enabled:
     - categories
   layout: archive
-  permalink:
-    category: '/category/:name/'
+  permalinks:
+    category: 'category/:name/'
 
 # Other
 markdown: kramdown
