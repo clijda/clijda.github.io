@@ -34,11 +34,11 @@ permalinks: pretty
 jekyll-archives:
   enabled:
     - categories
-  layouts:
-    category: category-archive
-#  layout: archive
-#  permalinks:
-#    category: 'category/:name/'
+#  layouts:
+#    category: category-archive
+  layout: archive
+  permalinks:
+    category: 'category/:name/'
 
 # Other
 markdown: kramdown
