@@ -7,6 +7,7 @@ category: usecases
 author: David
 featured: false
 summary: data science in sports
+permalink: /usecases/
 ---
 
 Analysing training data
