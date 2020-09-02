@@ -1,0 +1,38 @@
+[
+  
+    {
+      "title"    : "Data science in sports",
+      "url"      : "/usecases/2020/09/01/use-case-sport-analytics.html",
+      "category" : "usecases",
+      "date"     : "2020-09-01 08:15:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Demand Side Management (DSM)",
+      "url"      : "/usecases/2020/09/01/demand-side-management.html",
+      "category" : "usecases",
+      "date"     : "2020-09-01 08:15:00 +0200"
+    } ,
+  
+    {
+      "title"    : "The 7 steps of machine learning",
+      "url"      : "/blog/2020/08/31/the-7-steps-of-machine-learning.html",
+      "category" : "Blog",
+      "date"     : "2020-08-31 20:10:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Which problems can data science solve",
+      "url"      : "/blog/2020/08/31/which-problems-can-data-science-solve.html",
+      "category" : "Blog",
+      "date"     : "2020-08-31 08:15:00 +0200"
+    } ,
+  
+    {
+      "title"    : "What is in it for you",
+      "url"      : "/blog/2020/08/29/my-offering.html",
+      "category" : "blog",
+      "date"     : "2020-08-29 08:15:00 +0200"
+    } 
+  
+]
