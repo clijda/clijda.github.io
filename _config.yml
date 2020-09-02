@@ -34,7 +34,7 @@ permalinks: pretty
 jekyll-archives:
   enabled:
     - categories
-  layouts: archive
+  layout: archive
   permalinks:
     category: 'category/:name/'
 
