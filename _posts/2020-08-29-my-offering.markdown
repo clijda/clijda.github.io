@@ -3,7 +3,7 @@ layout: post
 cover: assets/images/5.jpg
 title: What is in it for you
 date: 2020-08-29 12:00:00 +0545
-categories: blog
+category: blog
 author: David
 featured: true
 summary: offering to customers

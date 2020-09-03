@@ -3,7 +3,7 @@ layout: post
 cover: assets/images/6.png
 title: Which problems can data science solve
 date: 2020-08-31 12:00:00 +0545
-categories: Blog
+category: blog
 author: David
 featured: true
 summary: machine learning techniques
