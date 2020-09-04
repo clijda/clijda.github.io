@@ -8,5 +8,5 @@ author: David
 summary: machine learning process
 ---
 
-[machine learning steps](https://towardsdatascience.com/the-7-steps-of-machine-learning-2877d7e5548e)
+[machine learning steps](https://towardsdatascience.com/the-7-steps-of-machine-learning-2877d7e5548e){:target="_blank"}
 
